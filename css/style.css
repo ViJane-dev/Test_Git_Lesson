@@ -1,12 +1,27 @@
-.my-design{
-    background-color: #3F9FEF;
+
+/* START  my styles 17 december 2021 */
+ 
+.page-header {
+    border-bottom: 1px solid #000000 !important;
 }
+
+/*-------- .container .content .row .block1 {
+    border-top: 1px solid #000 !important;
+} --- подумать и найти решение -----------*/ 
+
+/* END */
+
+
+.my-design{
+    background-color: #a2fff3;
+}
+
 .page-header h1{
     color: #012C40;
     font-weight: bold;
 }
 .page-header small{
-    color: #ffffff;
+    color: #da0303;
 }
 .textBlock{
     text-align: right;
@@ -28,8 +43,9 @@
    /* position: absolute;*/
     bottom: 0;
     width: 100%;
-    height: 60px;
+   /* height: 60px; */
     background-color: #012C40;
+    padding-bottom: 15px;
 }
 #footer p{
     margin-top: 20px;
