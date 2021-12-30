@@ -21,7 +21,7 @@
     font-weight: bold;
 }
 .page-header small{
-    color: #000000;
+    color: #da0303;
 }
 .textBlock{
     text-align: right;
@@ -44,7 +44,7 @@
     bottom: 0;
     width: 100%;
     height: 60px;
-    background-color: #012C40;
+    background-color: #000000;
 }
 #footer p{
     margin-top: 20px;
